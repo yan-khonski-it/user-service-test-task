@@ -1,6 +1,6 @@
 # user-service-test-task
 
-## Test assignment at technical interview
+ Test assignment at technical interview
 
 ### Write a microservice which manages Users.
 
